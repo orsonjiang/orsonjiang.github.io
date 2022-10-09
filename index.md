@@ -27,3 +27,7 @@ Hi, I'm Orson - CS student at Stony Brook University and Software Engineer. If y
 
 ### What is this site?
 This is my playground to both test new technologies and talk about them. If you see anything out of place or just want to chat, feel free to reach out.
+
+### What tech stack am I using?
+This site is build with [Jekyll](https://jekyllrb.com/) (a Ruby package), and hosted with [Github Pages](https://pages.github.com/). The Jekyll theme I'm using is [Just the Docs](https://just-the-docs.github.io/).
+<!-- You can read more about how I setup this site [here](). -->
