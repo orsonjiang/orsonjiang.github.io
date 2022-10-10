@@ -5,3 +5,10 @@ url: https://orsonjiang.com/
 # Build settings
 search_enabled: false
 footer_content: "Copyright © 2022 Orson Jiang."
+permalink: pretty
+
+# External navigation links
+nav_external_links:
+  - title: GitHub Repository
+    url: https://github.com/orsonjiang/orsonjiang.github.io
+    hide_icon: false
