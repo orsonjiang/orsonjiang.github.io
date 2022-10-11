@@ -1,6 +1,7 @@
 title: Orson Jiang
-# baseurl: 
-url: https://orsonjiang.com/
+baseurl: "/"
+url: https://orsonjiang.com
+description: "Another portfolio website by a software engineer and student."
 
 # Build settings
 search_enabled: false
