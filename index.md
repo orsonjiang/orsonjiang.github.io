@@ -5,7 +5,6 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Another portfolio website by a software engineer and student."
 permalink: /
 ---
 
