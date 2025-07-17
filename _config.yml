@@ -5,14 +5,14 @@ description: "Another portfolio website by a software engineer and student."
 
 # Build settings
 search_enabled: false
-footer_content: "Copyright © 2022 Orson Jiang."
+footer_content: "Copyright © 2022-2025 Orson Jiang."
 permalink: pretty
 
 # External navigation links
 nav_external_links:
-  - title: GitHub Repository
-    url: https://github.com/orsonjiang/orsonjiang.github.io
-    hide_icon: false
+    - title: GitHub Repository
+      url: https://github.com/orsonjiang/orsonjiang.github.io
+      hide_icon: false
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89a
@@ -20,14 +20,14 @@ ga_tracking: G-DXM302GVGM
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
-  - jekyll-seo-tag
+    - jekyll-seo-tag
 
 compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
-  # ignore:
-  #   envs: all
+    clippings: all
+    comments: all
+    endings: all
+    startings: []
+    blanklines: false
+    profile: false
+    # ignore:
+    #   envs: all

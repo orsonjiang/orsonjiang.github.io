@@ -19,10 +19,15 @@ Another portfolio website by a software engineer and student.
 ## Introductions
 
 ### Who am I?
-Hi, I'm Orson - CS student at Stony Brook University and Software Engineer. If you want to know more about me you can follow the buttons below but otherwise I'll keep it short and simple 😄.
+Hi, I'm Orson - a Software Engineer currently looking for work. If you want to know more about me you can follow the buttons below but otherwise I'll keep it short and simple 😄.
 
 [Github](https://github.com/orsonjiang/){: .btn .fs-3 .mb-4 .mb-md-0 .mr-2 }
 [LinkedIn](https://www.linkedin.com/in/orsonjiang/){: .btn .fs-3 .mb-4 .mb-md-0 .mr-2 }
+
+### Endowity
+This site might look barebones - it is. I've been dedicating a lot of my time to [Endowity](https://www.endowity.com), full-stack financial management platform that allows users to sync multiple bank accounts for transaction management, bill splitting, and trip expense tracking. Feel free to check it out and see how it is.
+
+[Endowity](https://www.endowity.com){: .btn .btn-green .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ### Contact Information
 Emailing me at [orsonjiang@gmail.com](mailto:orsonjiang@gmail.com) is always preferred but if you've found me on an alternative platform I'm happy to communicate through there. And who knows? There might be plans to build a live chat box on this site 😉.
